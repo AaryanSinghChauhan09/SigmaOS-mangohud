@@ -3,7 +3,7 @@ name = "SigmaOS-mangohud"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "mangohud component"
+description = "SigmaOS SigmaOS-mangohud component"
 upstream = []
 
 [contract]
